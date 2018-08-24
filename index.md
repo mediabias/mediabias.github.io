@@ -27,4 +27,9 @@ image:
   <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
 </div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title">Outro tile</h2>
+  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
