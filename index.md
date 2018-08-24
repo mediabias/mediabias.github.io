@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: newspapers.jpg
+  feature: wood-texture-1600x800.jpg
 ---
 
 <div class="tiles">
